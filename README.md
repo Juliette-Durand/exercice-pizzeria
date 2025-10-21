@@ -13,7 +13,7 @@ Set up the front-end structure of a pizza website including:
 ## 🧰 Technologies Used
 
 - **React**
-- **HTML / CSS**
+- **HTML / CSS / Javascript **
 
 ## 🚀 Project Status
 
